@@ -2,9 +2,9 @@
   display: block;
   visibility: visible;
   opacity: 1;
-  font-family: Helvetica, sans-serif;
+  font-family: Calibri, sans-serif;
   color: #2c2e2f;
-  font-size: 16px;
+  font-size: 18px;
 }
 #lever-jobs-container ul,
 #lever-jobs-container li,
@@ -61,7 +61,7 @@
 }
 #lever-jobs-container .lever-job-tag {
   display: inline-block;
-  color: rgba(44,46,47,0.5);
+  color: rgba(44,46,47,0);
   flex: 0 0 35%;
 }
 @media (max-width: 767px) {
